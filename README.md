@@ -1,2 +1,2 @@
-# coding-test-solutions
-My own solutions to problems.
+# leetcode-solutions
+My own solutions to leetcode problems.
